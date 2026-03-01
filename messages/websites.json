@@ -1,0 +1,23 @@
+[
+  {
+    "site": "imp-message",
+    "api": "/api/imp-message",
+    "createdAt": "2026-02-27T23:00:13.516Z",
+    "lastUpdated": "2026-03-01T19:05:31.491Z",
+    "messagePresent": true
+  },
+  {
+    "site": "studybracket",
+    "api": "/api/studybracket",
+    "createdAt": "2026-03-01T19:07:13.758Z",
+    "lastUpdated": "2026-03-01T19:07:24.886Z",
+    "messagePresent": true
+  },
+  {
+    "site": "gainrealestate",
+    "api": "/api/gainrealestate",
+    "createdAt": "2026-03-01T19:09:25.683Z",
+    "lastUpdated": "2026-03-01T19:10:27.460Z",
+    "messagePresent": true
+  }
+]
